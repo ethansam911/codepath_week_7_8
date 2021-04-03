@@ -1,1 +1,1 @@
-# codepath_week_7_8
+# Write-up for Weeks 7 & 8 of CodePath Cybersecurity 
