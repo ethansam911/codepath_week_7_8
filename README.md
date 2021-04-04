@@ -16,22 +16,60 @@ Run ```vagrant up```
 
 Verify wpdistillery.vm is running ```ping 192.168.33.10``` 
 
-> returns:
+returns:
 
 ![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/challenge_1.png)
+
+----
 
 ### Challenge 2: Kali, meet WordPress
 
 ```wget -qO- 'http://wpdistillery.vm' | gawk -v IGNORECASE=1 -v RS='</title' 'RT{gsub(/.*<title[^>]*>/,"");print;exit}'```
 
-> returns:
+returns:
 
 ![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/challenge_2.png)
 
 
+----
+
+### Challenge 3: WordPress Basics
+
+Post on Wordpress Site: 
+
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/challenge_3.png)
+
+### Challenge 4: Looking Under the Hood
+
+PHP source for writing a comment:
+
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/challenge_4.png)
+
+### Challenge 5: Casing the Joint
+
+```wpscan --url http://wpdistillery.vm --random-user-agent```
+
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/challenge_5.png)
+
+### Challenge 6: WordPress Time Machine
+
+After removing the latest version of vagrant, install vagrant version 4.2:
+
+```vagrant up```
+
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/challenge_6.png)
+
+### Challenge 7: WordPress Time Machine
 
 
-### Challenge 3: Kali, meet WordPress
+After running ```vagrant up``` once to provision a new VM with WP 4.2, we get new vulnerabilities 
+
+(We choose 3-5)
+
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/challenge_7.png)
+
+
+
 
 # Project 7 - WordPress Pentesting
 
