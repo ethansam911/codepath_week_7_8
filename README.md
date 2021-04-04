@@ -22,9 +22,8 @@ Verify wpdistillery.vm is running ```ping 192.168.33.10```
 
 returns:
 
-Ideanomics Stock &#8211; I made some money!
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/challenge_1.png)
 
 
 
