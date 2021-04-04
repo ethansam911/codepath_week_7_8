@@ -16,14 +16,18 @@ Run ```vagrant up```
 
 Verify wpdistillery.vm is running ```ping 192.168.33.10``` 
 
+> returns:
+
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/challenge_1.png)
+
 ### Challenge 2: Kali, meet WordPress
 
 ```wget -qO- 'http://wpdistillery.vm' | gawk -v IGNORECASE=1 -v RS='</title' 'RT{gsub(/.*<title[^>]*>/,"");print;exit}'```
 
-returns:
+> returns:
 
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/challenge_2.png)
 
-![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/challenge_1.png)
 
 
 
