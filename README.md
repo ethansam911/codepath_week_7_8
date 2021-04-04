@@ -14,14 +14,21 @@ Run ```vagrant up```
 
 ### Challenge 1: Running WordPress with VirtualBox
 
-```ping 192.168.33.10```
+Verify wpdistillery.vm is running ```ping 192.168.33.10``` 
 
-![alt text](C:\Users\esam5\codepath_week_7_8\challenge_1.png)
+### Challenge 2: Kali, meet WordPress
 
-### Challenge 1: Running WordPress with VirtualBox
+```wget -qO- 'http://wpdistillery.vm' | gawk -v IGNORECASE=1 -v RS='</title' 'RT{gsub(/.*<title[^>]*>/,"");print;exit}'```
+
+returns:
+
+Ideanomics Stock &#8211; I made some money!
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
 
+### Challenge 3: Kali, meet WordPress
 
 # Project 7 - WordPress Pentesting
 
