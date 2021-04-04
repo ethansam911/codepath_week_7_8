@@ -4,9 +4,9 @@
 
 
 Navigate to Path: 
-**C:\Users\esam5\WPDistillery** on Windows \
+**C:\Users\esam5\WPDistillery** on Windows 
 
-Run ```vagrant up```\
+Run ```vagrant up```
 
 ![](https://media.giphy.com/media/qaSyq5l09ei9qtphr5/giphy.gif)
 
@@ -14,11 +14,18 @@ Run ```vagrant up```\
 
 ### Challenge 1: Running WordPress with VirtualBox
 
+```ping 192.168.33.10```
+
+![alt text](C:\Users\esam5\codepath_week_7_8\challenge_1.png)
+
+### Challenge 1: Running WordPress with VirtualBox
+
+
 
 
 # Project 7 - WordPress Pentesting
 
-Time spent: **X** hours spent in total
+Time spent: **5.5** hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
