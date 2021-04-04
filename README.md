@@ -4,8 +4,9 @@
 
 
 Navigate to Path: 
-**C:\Users\esam5\WPDistillery** on Windows
-Run ```vagrant up```
+**C:\Users\esam5\WPDistillery** on Windows \
+
+Run ```vagrant up```\
 
 ![](https://media.giphy.com/media/qaSyq5l09ei9qtphr5/giphy.gif)
 
