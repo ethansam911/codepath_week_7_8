@@ -1,6 +1,8 @@
 # Weeks 7 & 8 of CodePath Cybersecurity Write-Up 
 
-### Challenge 0: Install Vagrant 
+### **Unit 7**
+
+### Challenge 0: Install Vagrant  
 
 
 Navigate to Path: 
@@ -67,6 +69,19 @@ After running ```vagrant up``` once to provision a new VM with WP 4.2, we get ne
 (We choose 3-5)
 
 ![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/challenge_7.png)
+
+
+
+### **Unit 8**
+
+
+### Milestone 0
+* Add another adapter to the virtual box Kali Machine
+  * lo (loopback) with IP address of 127.0.0.1
+  * eth0 (NAT) with IP similar to 10.x.x.x
+  * eth1 (Host-only) with IP of 192.168.33.100 
+
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/milestone_0.png)
 
 
 
