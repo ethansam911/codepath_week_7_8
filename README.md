@@ -75,7 +75,7 @@ After running ```vagrant up``` once to provision a new VM with WP 4.2, we get ne
 ### **Unit 8**
 
 
-### Milestone 0
+### Milestone 0: Preparing the Playing Field
 * Add another adapter to the virtual box Kali Machine
   * lo (loopback) with IP address of 127.0.0.1
   * eth0 (NAT) with IP similar to 10.x.x.x
@@ -83,8 +83,25 @@ After running ```vagrant up``` once to provision a new VM with WP 4.2, we get ne
 
 ![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/milestone_0.png)
 
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/milestone_0_verify_connection.png)
+
+### Milestone 1: Opening an Attack Surface
+
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/milestone_1_critical_security.png)
 
 
+### Milestone 2: Recon
+
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/milestone_2_critical_security.png)
+
+
+### Milestone 3: Hello, Metasploit
+
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/milestone_3_metasploit.png)
+
+### Milestone 4: Pwnage 
+ 
+Currently stuck here, antivirus interferes with metasploit shenanigans 
 
 # Project 7 - WordPress Pentesting
 
