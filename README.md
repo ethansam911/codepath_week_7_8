@@ -92,7 +92,7 @@ After running ```vagrant up``` once to provision a new VM with WP 4.2, we get ne
 
 ### Milestone 2: Recon
 
-![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/milestone_2_critical_security.png)
+![alt text](https://github.com/ethansam911/codepath_week_7_8/blob/main/milestone_2_reflex_gallery.png)
 
 
 ### Milestone 3: Hello, Metasploit
