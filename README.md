@@ -176,7 +176,7 @@ Time spent: **5.5** hours spent in total
        
        
 - [x] WordPress Security and Maintenance Release
- * [Security and Maintenance Release -- Securiyt Issue 5](https://wordpress.org/news/2017/05/wordpress-4-7-5/ "Assignment-xss2")
+ * [Security and Maintenance Release -- Security Issue 5](https://wordpress.org/news/2017/05/wordpress-4-7-5/ "Assignment-xss2")
  
 
  3. Authenticated Stored Cross-Site Scripting (XSS):
@@ -217,7 +217,7 @@ Describe any challenges encountered while doing the work
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Ethan Sam]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
