@@ -6,3 +6,7 @@
 
 - [x] Completed
 
+### Milestone 1: Hello, SET
+
+* Throwaway email: test user  
+  * testusercodepath@gmail.com
